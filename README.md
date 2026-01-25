@@ -6,7 +6,7 @@ Passionate about creating scalable and efficient backend solutions and real-worl
 
 📍 Pakistan  
 📫 Connect with me:  
-🔗 LinkedIn - https://www.linkedin.com/in/amna-asghar-086513319  
+🔗 LinkedIn - https://www.linkedin.com/in/amna--asghar  
 📧 Email – ask4amnaasghar@gmail.com
 ---
 
