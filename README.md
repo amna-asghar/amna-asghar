@@ -28,19 +28,6 @@ Passionate about creating scalable and efficient backend solutions and real-worl
 - Implemented secure login/signup with token-based authentication  
 - GitHub: [link](https://github.com/amna-asghar/Emosante)  
 
-### **GrocerEase – Online Grocery Store**
-- **Tech:** Flask / Web  
-- Developed backend logic for product listing, cart management, and user authentication  
-- Implemented database-driven inventory and order handling  
-- Focused on clean API structure and dynamic content rendering  
-- GitHub: [link](https://github.com/amna-asghar/GrocerEase)  
-
-### **AI Image Colorizer**
-- **Tech:** Flask / Python  
-- Built backend services for image upload, processing, and user history management  
-- Implemented authentication and session handling  
-- Designed scalable backend architecture for future integrations  
-- GitHub: [link](https://github.com/amna-asghar/ImageColorizer)  
 
 ---
 
