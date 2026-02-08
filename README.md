@@ -26,7 +26,7 @@ Passionate about creating scalable and efficient backend solutions and real-worl
 - Designed and developed a full-stack mobile application for emotional journaling  
 - Built RESTful APIs for user authentication, journal entries, and sentiment storage  
 - Implemented secure login/signup with token-based authentication  
-- GitHub: [link](https://github.com/amna-asghar/Emosante)  
+- GitHub: (https://github.com/muskancodebase/EmoSante_emotion-analysis-journaling)  
 
 
 ---
