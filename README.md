@@ -1,13 +1,9 @@
 # 👋 Hi, I’m Amna Asghar
 
-**Backend / Web Developer (Junior)**  
+**Backend / Web Developer **  
 Building web & mobile applications using Flask, React Native, and REST APIs.  
 Passionate about creating scalable and efficient backend solutions and real-world apps.
 
-📍 Pakistan  
-📫 Connect with me:  
-📧 Email – ask4amnaasghar@gmail.com
----
 
 ## 🛠️ Tech Stack
 **Languages:** Python | JavaScript | C/C++  
